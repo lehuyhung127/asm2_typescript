@@ -89,7 +89,7 @@ const HomePage = ({ products }: HomePageProps) => {
                 <section>
                     <div className=" py-8 mx-auto sm:px-6 sm:py-12 ">
                         <header >
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                  <h2 className="text-xl font-bold text-gray-900 sm:text-3xl">
                                 Sản Phẩm Mới Nhất
                             </h2>
